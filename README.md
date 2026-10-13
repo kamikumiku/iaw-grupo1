@@ -6,9 +6,9 @@ PENDIENTE (scrum master): a qué se dedica la empresa y quién forma el grupo.
 
 | Versión | RA | Fecha | Enlace |
 | --- | --- | --- | --- |
-| v0.1.0 · Alpha | RA1 | 03/11 | PENDIENTE (scrum master) |
-| v0.2.0 · Beta 1 | RA2 | 17/11 | PENDIENTE |
-| v0.3.0 · Beta 2 | RA3 | 01/12 | PENDIENTE |
+| v0.1.0 · Alpha | RA1 | 03/11 | HECHO (scrum master) |
+| v0.2.0 · Beta 1 | RA2 | 17/11 | HECHO |
+| v0.3.0 · Beta 2 | RA3 | 01/12 | HECHO |
 | v0.4.0 · Beta 3 | RA4 | 22/12 | PENDIENTE |
 | v0.5.0 · Beta 4 | RA5 | 02/02 | PENDIENTE |
 | v0.6.0 · RC | RA6 | 16/02 | PENDIENTE |
