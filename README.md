@@ -45,3 +45,5 @@ PENDIENTE: nombre, usuario de GitHub y qué necesita el departamento de su sitio
 ## Cómo trabajamos
 
 Una rama por tarea (`t1-06-ventas`), pull request y nada directamente en `main`. Cada uno toca solo su carpeta y su hueco. Las contraseñas no se suben: en los ficheros va `CAMBIAME`.
+
+#Jaime ha tocado esto
